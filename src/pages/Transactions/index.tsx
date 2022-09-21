@@ -1,5 +1,5 @@
-import { Header } from "./components/Header";
-import { Summary } from "./components/Summary";
+import { Header } from "../../components/Header";
+import { Summary } from "../../components/Summary";
 import { PriceHighlight, TransactionsContainer, TransactionsTable } from "./styles";
 
 export function Transactions () {
