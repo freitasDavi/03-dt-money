@@ -47,6 +47,14 @@
       "type": "outcome",
       "createdAt": "2022-09-22T12:29:38.026Z",
       "id": 6
+    },
+    {
+      "description": "Hamburguer",
+      "category": "Alimentação",
+      "price": 35,
+      "type": "outcome",
+      "createdAt": "2023-07-03T18:02:57.172Z",
+      "id": 7
     }
   ]
 }
